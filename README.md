@@ -1,1 +1,1 @@
-My first readme
+Ninja assassins, code blooded.
